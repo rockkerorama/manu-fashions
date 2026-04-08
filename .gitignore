@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# React build
+build/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
